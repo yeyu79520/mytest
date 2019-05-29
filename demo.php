@@ -9,3 +9,4 @@ require_once  "./vendor/autoload.php";
 use Valid\Tool;
 
 Tool::Valid();
+echo 11111;
