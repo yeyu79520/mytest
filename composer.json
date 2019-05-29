@@ -1,0 +1,20 @@
+{
+    "name": "yeyu/junmoxiao",
+    "description": "我的第一个测试项目",
+    "authors": [
+        {
+            "name": "zhongpeng79520",
+            "email": "zhongpeng79520@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Valid\\": "src/Valid"
+        }
+    }
+}
